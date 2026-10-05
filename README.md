@@ -1,4 +1,4 @@
-# kod_asistanim
+
 # Proje Yazari: Ali Cinar Serçe
 # Proje Adı: Kod-Asistan v0.1
 ## Projenin Amacı:Kullanıcılara gunluk islerinde(hesaplama,selamlama,v.b) yardımcı olacak bir dijital asistan tasarlamak
@@ -15,3 +15,4 @@
  ## Bitir
  ##Kaynakca
  Meb Bilisim Kitabı
+<img width="362" height="318" alt="9-AMP-A FLOWCHART" src="https://github.com/user-attachments/assets/12f5e97e-5b2f-4d79-b66a-94e8923d94ba" />
