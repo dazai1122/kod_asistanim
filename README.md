@@ -15,4 +15,5 @@
  ## Bitir
  ##Kaynakca
  Meb Bilisim Kitabı
-<img width="362" height="318" alt="9-AMP-A FLOWCHART" src="https://github.com/user-attachments/assets/12f5e97e-5b2f-4d79-b66a-94e8923d94ba" />
+<img width="342" height="322" alt="9-AMP-A FLOWCHART(1)" src="https://github.com/user-attachments/assets/ce15e6f0-68ee-4871-940a-c1f269a293a9" />
+
